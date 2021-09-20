@@ -17,3 +17,11 @@ Workflow:
 5. Executed the order or batch of orders
 6. Create an NFT with time lock using the info provided by user
 7. Send a notification to user's wallet using EPNS to let him/her know about this
+
+Technologies / Frameworks
+---
+
+- Infura Transaction ITX (https://github.com/INFURA/demo-eth-tx/tree/master/infura-transactions)
+- EPNS 
+- Matcha for limit orders
+- 
